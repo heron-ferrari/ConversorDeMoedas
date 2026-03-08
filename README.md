@@ -7,34 +7,36 @@ FUNCIONALIDADES
 
 O programa oferece uma interface via terminal (CLI) com as seguintes opções de conversão:
 
-USD para BRL (Dólar Americano para Real Brasileiro)
+- USD para BRL (Dólar Americano para Real Brasileiro)
 
-BRL para USD (Real Brasileiro para Dólar Americano)
+- BRL para USD (Real Brasileiro para Dólar Americano)
 
-EUR para BRL (Euro para Real Brasileiro)
+- EUR para BRL (Euro para Real Brasileiro)
 
-BRL para EUR (Real Brasileiro para Euro)
+- BRL para EUR (Real Brasileiro para Euro)
 
-JPY para BRL (Iene Japonês para Real Brasileiro)
+- JPY para BRL (Iene Japonês para Real Brasileiro)
 
-BRL para JPY (Real Brasileiro para Iene Japonês)
+- BRL para JPY (Real Brasileiro para Iene Japonês)
 
 
 TECNOLOGIAS UTILIZADAS
 
-Java 17+: Linguagem principal.
+- Java 17+: Linguagem principal.
 
-IntelliJ IDEA: IDE de desenvolvimento.
+- IntelliJ IDEA: IDE de desenvolvimento.
 
-Gson (Google): Biblioteca para conversão de JSON em objetos Java.
+- Gson (Google): Biblioteca para conversão de JSON em objetos Java.
 
-ExchangeRate-API: Serviço de terceiros para obtenção de taxas de câmbio.
+- ExchangeRate-API: Serviço de terceiros para obtenção de taxas de câmbio.
 
-HttpClient: Para realizar as requisições HTTP de forma nativa.
+- HttpClient: Para realizar as requisições HTTP de forma nativa.
+
 
 PRÉ-REQUISITOS
-Java JDK 17 ou superior instalado.
 
-Uma Chave de API (API Key) gratuita. Você pode obtê-la em exchangerate-api.com.
+- Java JDK 17 ou superior instalado.
 
-Biblioteca Gson configurada no projeto (via Maven ou adicionando o .jar manualmente).
+- Uma Chave de API (API Key) gratuita. Você pode obtê-la em exchangerate-api.com.
+
+- Biblioteca Gson configurada no projeto (via Maven ou adicionando o .jar manualmente).
