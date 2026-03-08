@@ -1,4 +1,4 @@
-#**CONVERSOR DE MOEDAS - Java CLI**
+# **CONVERSOR DE MOEDAS - Java CLI**
 
 Este é um desafio de programação que consiste em desenvolver um Conversor de Moedas que realiza requisições a uma API de taxas de câmbio em tempo real. O projeto foi desenvolvido como parte de um estudo sobre consumo de APIs, manipulação de JSON e Programação Orientada a Objetos em Java.
 
