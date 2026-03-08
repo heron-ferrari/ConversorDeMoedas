@@ -1,7 +1,8 @@
-Conversor de Moedas - Java CLI
+CONVERSOR DE MOEDAS - Java CLI
 Este é um desafio de programação que consiste em desenvolver um Conversor de Moedas que realiza requisições a uma API de taxas de câmbio em tempo real. O projeto foi desenvolvido como parte de um estudo sobre consumo de APIs, manipulação de JSON e Programação Orientada a Objetos em Java.
 
-🔨 Funcionalidades
+
+FUNCIONALIDADES
 O programa oferece uma interface via terminal (CLI) com as seguintes opções de conversão:
 
 USD para BRL (Dólar Americano para Real Brasileiro)
@@ -16,7 +17,8 @@ JPY para BRL (Iene Japonês para Real Brasileiro)
 
 BRL para JPY (Real Brasileiro para Iene Japonês)
 
-🚀 Tecnologias Utilizadas
+
+TECNOLOGIAS UTILIZADAS
 Java 17+: Linguagem principal.
 
 IntelliJ IDEA: IDE de desenvolvimento.
@@ -27,7 +29,7 @@ ExchangeRate-API: Serviço de terceiros para obtenção de taxas de câmbio.
 
 HttpClient: Para realizar as requisições HTTP de forma nativa.
 
-📋 Pré-requisitos
+PRÉ-REQUISITOS
 Java JDK 17 ou superior instalado.
 
 Uma Chave de API (API Key) gratuita. Você pode obtê-la em exchangerate-api.com.
